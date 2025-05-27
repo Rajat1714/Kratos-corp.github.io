@@ -11900,9 +11900,9 @@ div#small-dialog iframe {
 /* header */
 /* navigation styling */
 .navbar .navbar-brand {
-  margin: 5px;
+  margin: 0;
   padding: 0;
-  font-size: 25px;
+  font-size: 30px;
   color: var(--logo-color);
   font-weight: 600;
 }
@@ -14152,7 +14152,7 @@ h4.abt-right-text {
 
 /* content with bg */
 .w3l-content-bg {
-  background: url(../images/papermill.jpg) no-repeat center fixed;
+  background: url(../images/bg2.jpg) no-repeat center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
